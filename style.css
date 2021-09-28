@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+header {
+  color: black;
+  height: 80px;
+  text-align: center;
+}
+
+h1 {
+  font-family: poppins;
+}
+
+input {
+  border-color: black;
+  width: 250px;
+  min-height: 3rem;
+  border-radius: 8px;
+  display: block;
+  margin-top: 30px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+button {
+  border: none;
+  width: 8rem;
+  height: 2.5rem;
+  background-color: black;
+  color: white;
+  font-family: poppins;
+  display: block;
+  margin: 30px auto;
+}
+
+#output-div {
+  font-family: poppins;
+  text-align: center;
+  margin: 30px auto;
+}
